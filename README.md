@@ -1,6 +1,7 @@
 # Autoban analyzer
 Additional utility for Autoban service. Do analyze of cumulative user behavior statistics. 
 
+!!! PERMANENTLY MOVED TO NEW ADDRESS: http://git.khoz.ru/Khoz/ab_analyzer.git
 
 INSTALLATION
 ------------
